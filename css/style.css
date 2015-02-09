@@ -444,7 +444,7 @@ blockquote {
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
 	background-color: #A9FF6F;
-	border-color: #A9FF6F;
+	border-color: #cacaca;
 	color: #ffffff;
 }
 
